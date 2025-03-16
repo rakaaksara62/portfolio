@@ -13,6 +13,7 @@ This project scrapes **laptop price data** from Tokopedia using **BeautifulSoup*
     - 📜 **README.md** → Project description
     - 📜 **scraping.py** → Scraping script
     - 📜 **analysis.ipynb** → Jupyter Notebook for analysis
+    - 📜 **requirements.txt**  → Dependencies for the project
     - 📂 **data**
       - 📜 **laptop_tokopedia.csv** → Scraped data
     - 📂 **images**
