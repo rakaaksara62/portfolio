@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```bash
    python scraping.py
 ```
-2.Open Jupyter Notebook for analysis
+2. Open Jupyter Notebook for analysis
 ```bash
     jupyter notebook
 ```
