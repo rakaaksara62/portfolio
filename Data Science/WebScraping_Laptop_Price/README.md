@@ -26,12 +26,13 @@ pip install -r requirements.txt
 📊 How to Run
 
 1. Run the web scraping script
-    python scraping.py
-
+```bash
+   python scraping.py
+```
 2.Open Jupyter Notebook for analysis
-
+```bash
     jupyter notebook
-
+```
 ## 📸 **Analysis Result**
 ### 📊 Laptop Price Distribution  
 This histogram shows the distribution of laptop prices collected from Tokopedia.  
