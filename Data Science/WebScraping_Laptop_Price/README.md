@@ -22,6 +22,7 @@ This project scrapes **laptop price data** from Tokopedia using **BeautifulSoup*
 Ensure Python is installed, then run:
 ```bash
 pip install -r requirements.txt
+```
 📊 How to Run
 
 1. Run the web scraping script
