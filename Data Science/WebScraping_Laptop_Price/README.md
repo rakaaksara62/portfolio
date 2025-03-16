@@ -8,16 +8,16 @@ This project scrapes **laptop price data** from Tokopedia using **BeautifulSoup*
 ✅ Price distribution visualization  
 
 ## 📂 **Project Structure**
-📂 web-scraping-laptop 
-│── 📜 README.md 
-│── 📜 scraping.py ← Scraping script 
-│── 📜 analysis.ipynb ← Jupyter Notebook for analysis 
-│── 📂 data 
-  │ 
-  ├── laptop_tokopedia.csv ← Scraped data 
-│── 📂 images
-  │ 
-  ├── price_distribution_histogram.png ← Price visualization
+📂 data-science
+├── 📂 web-scraping-laptop
+│   ├── 📜 README.md  ← **Project description**
+│   ├── 📜 scraping.py  ← **Scraping script**
+│   ├── 📜 analysis.ipynb  ← **Jupyter Notebook for analysis**
+│   ├── 📂 data
+│   │   ├── laptop_tokopedia.csv  ← **Scraped data**
+│   ├── 📂 images
+│   │   ├── price_distribution_histogram.png  ← **Price visualization**
+
 
 ## 🔧 **Installation**
 Ensure Python is installed, then run:
